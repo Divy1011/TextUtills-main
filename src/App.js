@@ -2,7 +2,7 @@ import './App.css';
 // import About from './Component/About';
 import Navbar from './Component/Navbar';
 import TextForm from './Component/TextForm';
-
+import React from 'react';
 
 function App() {
   
